@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_section_image_grods",
+  "info": {
+    "displayName": "image-grod"
+  },
+  "options": {},
+  "attributes": {
+    "images": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}
